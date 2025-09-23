@@ -1,0 +1,34 @@
+# My Coding Journey
+
+Welcome to my coding journey! 🚀  
+This repository is where I document my learning progress, practice problems, mini-projects, and experiments as I grow my programming skills.
+
+## About
+
+- Learning programming step by step.
+- Practicing coding problems and algorithms.
+- Building small projects to understand real-world applications.
+- Exploring different programming languages and concepts.
+
+## Array Problems
+
+Here are my array problem solutions in Java:
+
+1. [Array Length and Values](array-problems/01_array_length_and_values) – Find the length of an array and print its elements.  
+2. [Print Alternate Elements](array-problems/02_print_alternate_elements) – Print every alternate element in an array.  
+3. [Count Even and Odd Numbers](array-problems/03_even_odd_count) – Count the number of even and odd elements in an array.  
+4. [Check if Array is Sorted](array-problems/04_sorted_array_check) – Check if an array is sorted in ascending order.  
+5. [Merge Two Arrays](array-problems/05_merge_arrays) – Merge two arrays into a single array.  
+6. [Merge Two Arrays](array-problems/06_merge_arrays) – Merge two arrays into a single array.  
+7. [Find Second Largest Element](array-problems/07_second_largest) – Find the second largest element in an array.  
+8. [Right Shift Array](array-problems/08_right_shift) – Right shift all elements of an array by one position.  
+9. [Left Shift Array](array-problems/09_left_shift) – Left shift all elements of an array by one position.  
+10. [Copy Array](array-problems/10_copy_array) – Copy all elements of an array into a new array.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to explore, learn, and even contribute! 🌟
