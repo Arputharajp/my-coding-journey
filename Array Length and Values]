@@ -1,0 +1,8 @@
+
+## Approach
+1. Declare and initialize the array.
+2. Use `arr.length` to get the length.
+3. Use a loop to print all elements.
+
+## Solution
+See `solution.java` for implementation.
