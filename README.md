@@ -14,7 +14,7 @@ This repository is where I document my learning progress, practice problems, min
 
 Here are some examples of what you'll find in this repository:
 
-- **Python Basics** – Variables, loops, functions, and simple scripts.
+- **Java Basics** – Variables, loops, functions, and simple scripts.
 - **JavaScript Exercises** – DOM manipulation, functions, and small apps.
 - **Mini Projects** – Small games, utilities, and practice projects.
 - **Algorithms & Data Structures** – Problem-solving with explanations.
